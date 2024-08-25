@@ -1,4 +1,4 @@
-![cplusplus-original](https://github.com/user-attachments/assets/989ad82f-d2e2-4c35-a746-13a20875974a)Hi 👋, I'm Narender Kumar
+###Hi 👋, I'm Narender Kumar
 
 🔭 I’m currently working on Data Analytics
 
